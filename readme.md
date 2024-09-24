@@ -1,2 +1,3 @@
 meow  
-**my discord [My discord account](<https://discord.com/users/992499799284781147>)**
+##Socials  
+**My discord account](<https://discord.com/users/992499799284781147>)**

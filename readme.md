@@ -2,8 +2,8 @@
 ### hello my name is lorcan, I like cats and writing lazy code after doing nothing for several hours  
 
 ## repos
-**[Selfbot](https://github.com/Lorcan-1/lorcanselfbot)**
-**[netlimiter crack](https://github.com/Lorcan-1/NLcrack)**
+**[Selfbot](https://github.com/Lorcan-1/lorcanselfbot)**  
+**[netlimiter crack](https://github.com/Lorcan-1/NLcrack)**  
 
 
 ## Socials  

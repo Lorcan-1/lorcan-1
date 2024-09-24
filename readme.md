@@ -1,4 +1,5 @@
 # Lorcan
+### hello my name is lorcan, i like cats and writing lazy code after doing nothing for several hours
 
 
 

@@ -1,5 +1,5 @@
 # Lorcan
-### hello my name is lorcan, I like cats and writing lazy code after doing nothing for several hours  
+### hello my name is lorcan, I like cats 
 
 ## repos
 **[Selfbot](https://github.com/Lorcan-1/lorcanselfbot)**  

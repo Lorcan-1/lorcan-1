@@ -3,7 +3,8 @@
 
 ## repos
 **[Selfbot](https://github.com/Lorcan-1/lorcanselfbot)**  
-**[netlimiter crack](https://github.com/Lorcan-1/NLcrack)**  
+**[Netlimiter crack](https://github.com/Lorcan-1/NLcrack)**  
+**[Nitro sniper]((https://github.com/Lorcan-1/nitrosniper))**  
 
 
 ## Socials  

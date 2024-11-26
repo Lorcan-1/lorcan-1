@@ -1,6 +1,8 @@
 # Lorcan
 ### hello my name is lorcan, I like cats 
 
+I mostly use python and c 
+
 ## repos
 **[Selfbot](https://github.com/Lorcan-1/lorcanselfbot)**  
 **[Netlimiter crack](https://github.com/Lorcan-1/NLcrack)**  

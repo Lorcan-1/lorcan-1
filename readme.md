@@ -7,6 +7,9 @@ I mostly use python and c
 **[Selfbot](https://github.com/Lorcan-1/lorcanselfbot)**  
 **[Netlimiter crack](https://github.com/Lorcan-1/NLcrack)**  
 **[Nitro sniper](https://github.com/Lorcan-1/nitrosniper)**  
+**[Cascade scanner](https://github.com/Lorcan-1/cascade-tile-scanner)**  
+
+
 
 
 ## Socials  
